@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Kommentare zu: Organist</title>
+	<atom:link href="http://sanktjosef.de/cms/kontakte/organist/feed/" rel="self" type="application/rss+xml" />
+	<link>http://sanktjosef.de/cms</link>
+	<description>Pfarrei St. Peter und Paul, Witten - Sprockhövel - Wetter</description>
+	<lastBuildDate>Sun, 10 Sep 2017 08:34:36 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.3</generator>
+	<item>
+		<title>Von: 2. Weihnachtsfeiertag: Festmesse mit Kindersegnung und Kirchenchor</title>
+		<link>http://sanktjosef.de/cms/kontakte/organist/#comment-2040</link>
+		<dc:creator><![CDATA[2. Weihnachtsfeiertag: Festmesse mit Kindersegnung und Kirchenchor]]></dc:creator>
+		<pubDate>Tue, 29 Dec 2015 09:23:44 +0000</pubDate>
+		<guid isPermaLink="false">http://sanktjosef.de/cms/?page_id=18937#comment-2040</guid>
+		<description><![CDATA[[&#8230;] Organist [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Organist [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
