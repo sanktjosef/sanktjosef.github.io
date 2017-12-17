@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Pfarrversammlung &#8211; Archiv der Kath. Kirchengemeinde St. Josef</title>
+	<atom:link href="http://sanktjosef.de/cms/category/pfarrversammlung/feed/" rel="self" type="application/rss+xml" />
+	<link>http://sanktjosef.de/cms</link>
+	<description>ZUR AKTUELLEN SEITE geben Sie in Ihren Browser ein:  WWW.PPHERBEDE.DE</description>
+	<lastBuildDate>Sun, 03 Dec 2017 16:23:15 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.1</generator>
+	<item>
+		<title>Pfarrversammlung am 6. Dezember 2017</title>
+		<link>http://sanktjosef.de/cms/2017/11/15/pfarrversammlung-am-6-dezember-2017/</link>
+		<pubDate>Wed, 15 Nov 2017 13:32:11 +0000</pubDate>
+		<dc:creator><![CDATA[mberretz]]></dc:creator>
+				<category><![CDATA[Pfarrversammlung]]></category>
+		<category><![CDATA[Sonstige Veranstaltungen]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://sanktjosef.de/cms/?p=35791</guid>
+		<description><![CDATA[Zu einer zweiten Pfarrversammlung in diesem Jahr laden der Vorsitzende des Kirchenvorstands und die Vorsitzende des Pfarrgemeinderats zum 6.12.2017 um 19.00 Uhr nach Herbede ein. Einladung zur Pfarrversammlung Liebe Mitglieder der Pfarrei St. Peter und Paul Witten – Sprockhövel &#8211; Wetter! Am 12. Oktober 2017 präsentierten wir Ihnen den Entwurf eines pastoralen und wirtschaftlichen Votums(...)]]></description>
+		</item>
+		<item>
+		<title>Pfarrversammlung 2017: Einladung</title>
+		<link>http://sanktjosef.de/cms/2017/09/27/pfarrversammlung-2017-einladung/</link>
+		<pubDate>Wed, 27 Sep 2017 17:35:34 +0000</pubDate>
+		<dc:creator><![CDATA[mberretz]]></dc:creator>
+				<category><![CDATA[Pfarreientwicklungsprozess (PEP)]]></category>
+		<category><![CDATA[Pfarrversammlung]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://sanktjosef.de/cms/?p=35545</guid>
+		<description><![CDATA[Einladung zur Pfarrversammlung am 12. Oktober 2017 Liebe Mitglieder der Pfarrei St. Peter und Paul Herbede! Seit Anfang 2015 ist unsere Pfarre mit ihren sechs Gemeinden im Rahmen des Entwicklungsprozesses &#8211; wie die anderen 42 Pfarreien im Bistum Essen auch &#8211; aufgebrochen zu neuen Ufern. In unterschiedlichen Arbeitsgruppen und auf Klausurtagungen haben sich viele Menschen(...)]]></description>
+		</item>
+		<item>
+		<title>Termin vormerken: Pfarrversammlung am 12.10.2017</title>
+		<link>http://sanktjosef.de/cms/2017/09/15/termin-vormerken-pfarrversammlung-am-12-10-2017/</link>
+		<pubDate>Fri, 15 Sep 2017 05:03:43 +0000</pubDate>
+		<dc:creator><![CDATA[mberretz]]></dc:creator>
+				<category><![CDATA[Pfarrversammlung]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://sanktjosef.de/cms/?p=35507</guid>
+		<description><![CDATA[Vorankündiung &#8211; Termin bitte schon einmal notieren! Die nächste Pfarrversammlung wird am Donnerstag, den 9. Oktober 2017 um 19.00 Uhr in der Gemeinde St. Liborius (Witten-Wengern) stattfinden. Ein Beratungsschwerpunkt wird der Pfarreientwicklungsprozess sein. Die Einladung zu dieser mind. einmal jährlich durchzuführenden Pfarrversammlung wird zeitangemessen mit Tagesordnung&#160; folgen. M. Berretz]]></description>
+		</item>
+	</channel>
+</rss>

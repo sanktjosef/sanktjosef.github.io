@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Gemeinderatswahl 2009 &#8211; Archiv der Kath. Kirchengemeinde St. Josef</title>
+	<atom:link href="http://sanktjosef.de/cms/category/gemeinderat/gemeinderatswahl-2009/feed/" rel="self" type="application/rss+xml" />
+	<link>http://sanktjosef.de/cms</link>
+	<description>ZUR AKTUELLEN SEITE geben Sie in Ihren Browser ein:  WWW.PPHERBEDE.DE</description>
+	<lastBuildDate>Sun, 03 Dec 2017 16:23:15 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.1</generator>
+	<item>
+		<title>Mitglieder des Gemeinderats von 2009 bis 2013</title>
+		<link>http://sanktjosef.de/cms/2013/10/10/mitglieder-des-gemeinderats-von-2009-bis-2013/</link>
+		<pubDate>Thu, 10 Oct 2013 18:39:38 +0000</pubDate>
+		<dc:creator><![CDATA[mberretz]]></dc:creator>
+				<category><![CDATA[Gemeinderatswahl 2009]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://sanktjosef.de/cms/?p=22762</guid>
+		<description><![CDATA[Am 7. und 8. November 2009 sind die Gemeinderäte u. a. in unserem Bistum Essen neu gewählt worden. Die konstituierende Sitzung hat am 10.12.2009 stattgefunden. Nachfolgend finden Sie die GR-Mitglieder nach Stand vom 13.06.2013 mit ihrem jeweiligen Aufgabenbereich. Viele von ihnen vertreten gleichzeitig im GR die Anliegen der in unserer Gemeinde existierenden Gruppierungen. Weitere Informationen(...)]]></description>
+		</item>
+		<item>
+		<title>Gemeinderatsmitglieder ab Dezember 2009</title>
+		<link>http://sanktjosef.de/cms/2012/08/24/gemeinderatsmitglieder-ab-dezember-2009/</link>
+		<pubDate>Thu, 23 Aug 2012 22:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[mberretz]]></dc:creator>
+				<category><![CDATA[Gemeinderatswahl 2009]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://sanktjosef.de/cms/2009/12/10/gemeinderatsmitglieder-ab-dezember-2009/</guid>
+		<description><![CDATA[Am 7. und 8. November 2009 sind die Gemeinderäte u. a. in unserem Bistum Essen neu gewählt worden. Die konstituierende Sitzung hat am 10.12.2009 stattgefunden. Nachfolgend finden Sie die GR-Mitglieder mit ihrem jeweiligen Aufgabenbereich. Viele von ihnen vertreten gleichzeitig im GR die Anliegen der in unserer Gemeinde existierenden Gruppierungen. Die nachfolgende Auflistung der GR-Mitglieder erfolgt nach Stand vom 24.08.2012.(...)]]></description>
+		</item>
+		<item>
+		<title>Gemeinderatsmitglieder nach Wahl im Nov. 2009</title>
+		<link>http://sanktjosef.de/cms/2009/12/11/gemeinderatsmitglieder-nach-wahl-im-nov-2009/</link>
+		<pubDate>Fri, 11 Dec 2009 09:08:43 +0000</pubDate>
+		<dc:creator><![CDATA[mberretz]]></dc:creator>
+				<category><![CDATA[Gemeinderatswahl 2009]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://sanktjosef.de/cms/?p=26853</guid>
+		<description><![CDATA[Am 7. und 8. November 2009 sind die Gemeinderäte u. a. in unserem Bistum Essen neu gewählt worden. Die konstituierende Sitzung hat am 10.12.2009 stattgefunden. Nachfolgend finden Sie die GR-Mitglieder mit ihrem jeweiligen Aufgabenbereich. Viele von ihnen vertreten gleichzeitig im GR die Anliegen der in unserer Gemeinde existierenden Gruppierungen. Die nachfolgende Auflistung der GR-Mitglieder erfolgt nach Stand vom 10.12.2009(...)]]></description>
+		</item>
+	</channel>
+</rss>

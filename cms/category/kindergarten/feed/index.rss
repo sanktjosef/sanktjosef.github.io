@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kindergarten &#8211; Archiv der Kath. Kirchengemeinde St. Josef</title>
+	<atom:link href="http://sanktjosef.de/cms/category/kindergarten/feed/" rel="self" type="application/rss+xml" />
+	<link>http://sanktjosef.de/cms</link>
+	<description>ZUR AKTUELLEN SEITE geben Sie in Ihren Browser ein:  WWW.PPHERBEDE.DE</description>
+	<lastBuildDate>Sun, 03 Dec 2017 16:23:15 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.1</generator>
+	<item>
+		<title>Gemeindefest 2017 &#8211; erster Tag (Samstag)</title>
+		<link>http://sanktjosef.de/cms/2017/07/08/gemeindefest-2017-erster-tag-samstag/</link>
+		<pubDate>Sat, 08 Jul 2017 18:58:20 +0000</pubDate>
+		<dc:creator><![CDATA[mberretz]]></dc:creator>
+				<category><![CDATA[Gemeindefest]]></category>
+		<category><![CDATA[Kindergarten]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://sanktjosef.de/cms/?p=35156</guid>
+		<description><![CDATA[Zum Gemeindefest 2017 hatte der Vorsitzende unseres Fördervereins, Dr. Christian Waschke, nicht nur die Mitglieder der Gemeinde St. Josef eingeladen, sondern auch alle am Fest Interessierte. Mit dem Glockengeläut und einer sich anschließenden spielerischen Vorführung durch Kinder des Kindergartens wurde das Fest pünktlich um 15.00 Uhr eröffnet. Natürlich verfolgten&#160; neben den interessierten Eltern dieser Kinder(...)]]></description>
+		</item>
+		<item>
+		<title>Kindergarten St. Josef nahm am Weltspieltag teil</title>
+		<link>http://sanktjosef.de/cms/2017/05/28/kindergarten-st-josef-nahm-am-weltspieltag-teil/</link>
+		<pubDate>Sun, 28 May 2017 07:57:46 +0000</pubDate>
+		<dc:creator><![CDATA[mberretz]]></dc:creator>
+				<category><![CDATA[Aktuelles aus der KiTa]]></category>
+		<category><![CDATA[Kindergarten]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://sanktjosef.de/cms/?p=34945</guid>
+		<description><![CDATA[Am vergangenen Freitag (26.05.2017) war &#8211; wussten Sie es? &#8211; WELTSPIELTAG. Und daran haben auch Kinder unseres Kindergartens St. Josef teilgenommen. Denn das Motto lautete &#8222;Spiel! Platz ist überall.&#8220; Da ist es nicht erstaunlich, dass sich unsere Kindergartenkinder riesig darüber gefreut haben, diese &#8218;Außer-Haus-Spiel-Aktion&#8216; auf dem Parkplatz am Rathaus realisieren zu dürfen. Mehr lesen Sie(...)]]></description>
+		</item>
+		<item>
+		<title>Ali Baba ausgezeichnet für 10 Jahre Erzählkunst im kath. Kindergarte St. Josef</title>
+		<link>http://sanktjosef.de/cms/2016/11/03/ali-baba-ausgezeichnet-fuer-10-jahre-erzaehlkunst-im-kath-kindergarte-st-josef/</link>
+		<pubDate>Thu, 03 Nov 2016 15:07:30 +0000</pubDate>
+		<dc:creator><![CDATA[mberretz]]></dc:creator>
+				<category><![CDATA[Kindergarten]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://sanktjosef.de/cms/?p=33335</guid>
+		<description><![CDATA[Mit einem orientalischen Fest wollten die Kinder, das Kita-Team und die Eltern Danke sagen für die Zeit, die Unterstützung und Freundschaft, die Ali Baba (Dietmar Frege) seit 10 Jahren in die Kita einbringt. Am Nachmittag des 25.10.2016 führte Frau Papenkort Ali Baba, ausnahmsweise einmal in Begleitung seiner Frau, zu den Ehrenplätzen in dem nicht mehr(...)]]></description>
+		</item>
+	</channel>
+</rss>

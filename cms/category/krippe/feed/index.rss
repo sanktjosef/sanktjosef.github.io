@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Krippe &#8211; Archiv der Kath. Kirchengemeinde St. Josef</title>
+	<atom:link href="http://sanktjosef.de/cms/category/krippe/feed/" rel="self" type="application/rss+xml" />
+	<link>http://sanktjosef.de/cms</link>
+	<description>ZUR AKTUELLEN SEITE geben Sie in Ihren Browser ein:  WWW.PPHERBEDE.DE</description>
+	<lastBuildDate>Sun, 03 Dec 2017 16:23:15 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.1</generator>
+	<item>
+		<title>Unsere Weihnachtskrippe</title>
+		<link>http://sanktjosef.de/cms/2006/12/23/unsere-weihnachtskrippe-2/</link>
+		<comments>http://sanktjosef.de/cms/2006/12/23/unsere-weihnachtskrippe-2/#comments</comments>
+		<pubDate>Sat, 23 Dec 2006 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[mberretz]]></dc:creator>
+				<category><![CDATA[Kirchenchor]]></category>
+		<category><![CDATA[Krippe]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Weihnachtsmarktkreis]]></category>
+
+		<guid isPermaLink="false">http://sanktjosef.de/cms/2006/12/23/unsere-weihnachtskrippe-2/</guid>
+		<description><![CDATA[Unsere Weihnachtskrippe ist seit Weihnachten 2006 komplett. Weihnachtskrippe 2007 in St. Josef, Haßlinghausen, Gesamtansicht Krippe St. Josef, Hirtenjunge mit Schafen Krippe St. Josef, Hirtenjunge Krippe St. Josef, Maria mit Kind in der Krippe Krippe St. Josef, Maria und Josef mit dem Kind in der Krippe Krippe St. Josef, der Engel bringt die frohe Botschaft über(...)]]></description>
+		<wfw:commentRss>http://sanktjosef.de/cms/2006/12/23/unsere-weihnachtskrippe-2/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Kirchenchorschaf</title>
+		<link>http://sanktjosef.de/cms/2005/06/15/kirchenchorschaf/</link>
+		<pubDate>Wed, 15 Jun 2005 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[mberretz]]></dc:creator>
+				<category><![CDATA[Kirchenchor]]></category>
+		<category><![CDATA[Krippe]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Weihnachtsmarktkreis]]></category>
+
+		<guid isPermaLink="false">http://sanktjosef.de/cms/2005/06/15/kirchenchorschaf/</guid>
+		<description><![CDATA[Ein besonderer Dank an unseren Kirchenchor. Der Weihnachtsmarktkreis hat, neben anderen Aktivitäten, die Anschaffung der Kirchenkrippe initiiert und deren finanziellen Grundstock gelegt. Außerdem betreut er die Krippe das ganze Jahr über. Bei hochsommerlichen Temperaturen schon an Weihnachten zu denken ist somit kein Problem. Am 10. Juni traf man sich zur ersten Arbeitssitzung 2005 und am 15. Juni brachten Regina(...)]]></description>
+		</item>
+	</channel>
+</rss>

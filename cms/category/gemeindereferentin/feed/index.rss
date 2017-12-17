@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Gemeindereferentin &#8211; Archiv der Kath. Kirchengemeinde St. Josef</title>
+	<atom:link href="http://sanktjosef.de/cms/category/gemeindereferentin/feed/" rel="self" type="application/rss+xml" />
+	<link>http://sanktjosef.de/cms</link>
+	<description>ZUR AKTUELLEN SEITE geben Sie in Ihren Browser ein:  WWW.PPHERBEDE.DE</description>
+	<lastBuildDate>Sun, 03 Dec 2017 16:23:15 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.1</generator>
+	<item>
+		<title>Petra Gewert als neue Gemeindereferentin eingeführt</title>
+		<link>http://sanktjosef.de/cms/2013/05/30/petra-gewert-als-neue-gemeindereferentin-eingefuhrt/</link>
+		<comments>http://sanktjosef.de/cms/2013/05/30/petra-gewert-als-neue-gemeindereferentin-eingefuhrt/#comments</comments>
+		<pubDate>Thu, 30 May 2013 21:24:24 +0000</pubDate>
+		<dc:creator><![CDATA[mberretz]]></dc:creator>
+				<category><![CDATA[Gemeindereferentin]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://sanktjosef.de/cms/?p=21481</guid>
+		<description><![CDATA[Im Fronleichnamsgottesdienst hat Pastor Burkhard Schmelz der Gemeinde St. Josef Frau Petra Gewert als neue Gemeindereferentin für St. Josef und St. Januarius vorgestellt. Vor Beginn des Mittagsimbisses hat der GR-Vorsitzende Manfred Berretz im Gemeindeheim die Gelegenheit genutzt, um auch in diesem weltlichen Raum Frau Gewert aufs herzlichste in St. Josef willkommen zu heißen. Vor den(...)]]></description>
+		<wfw:commentRss>http://sanktjosef.de/cms/2013/05/30/petra-gewert-als-neue-gemeindereferentin-eingefuhrt/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Neue Gemeindereferentin Frau Gewert</title>
+		<link>http://sanktjosef.de/cms/2013/05/29/neue-gemeindereferentin-frau-gewert/</link>
+		<comments>http://sanktjosef.de/cms/2013/05/29/neue-gemeindereferentin-frau-gewert/#comments</comments>
+		<pubDate>Wed, 29 May 2013 09:53:20 +0000</pubDate>
+		<dc:creator><![CDATA[mberretz]]></dc:creator>
+				<category><![CDATA[Gemeindereferentin]]></category>
+
+		<guid isPermaLink="false">http://sanktjosef.de/cms/?p=21428</guid>
+		<description><![CDATA[Wir freuen uns, dass seit dem 1. Mai wieder eine Gemeindereferentin in unserer und unserer Nachbargemeinde St.Januarius Dienst tut. (Wir berichteten darüber.) Vor dem Mittagsimbiss am Fronleichnamstag wollen wir Frau Petra Gewert in unserem Gemeindeheim herzlich willkommen heißen und mit ihr ins Gespräch kommen.]]></description>
+		<wfw:commentRss>http://sanktjosef.de/cms/2013/05/29/neue-gemeindereferentin-frau-gewert/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Ab 1. Mai neue Gemeindereferentin für St. Januarius und St. Josef</title>
+		<link>http://sanktjosef.de/cms/2013/04/16/ab-1-mai-neue-gemeindereferentin-fur-st-januarius-und-st-josef/</link>
+		<comments>http://sanktjosef.de/cms/2013/04/16/ab-1-mai-neue-gemeindereferentin-fur-st-januarius-und-st-josef/#comments</comments>
+		<pubDate>Tue, 16 Apr 2013 08:17:48 +0000</pubDate>
+		<dc:creator><![CDATA[mberretz]]></dc:creator>
+				<category><![CDATA[Gemeindereferentin]]></category>
+
+		<guid isPermaLink="false">http://sanktjosef.de/cms/?p=21185</guid>
+		<description><![CDATA[Die Gemeinden St. Januarius und St. Josef in Sprockhövel werden eine neue Gemeinderefentin mit einem Beschäftigungsumfang von 100 % bekommen. Frau Petra Gewert wird zum 1. Mai ihren Dienst antreten. Wir heißen Frau Gewert herzlich in unseren Gemeinden willkommen und freuen uns auf eine segensreiche Zusammenarbeit im Weinberg des Herrn.]]></description>
+		<wfw:commentRss>http://sanktjosef.de/cms/2013/04/16/ab-1-mai-neue-gemeindereferentin-fur-st-januarius-und-st-josef/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

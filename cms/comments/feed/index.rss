@@ -6,14 +6,14 @@
 	
 	>
 <channel>
-	<title>Kommentare für Kath. Kirchengemeinde St. Josef</title>
+	<title>Kommentare für Archiv der Kath. Kirchengemeinde St. Josef</title>
 	<atom:link href="http://sanktjosef.de/cms/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>http://sanktjosef.de/cms</link>
-	<description>Pfarrei St. Peter und Paul, Witten - Sprockhövel - Wetter</description>
+	<description>ZUR AKTUELLEN SEITE geben Sie in Ihren Browser ein:  WWW.PPHERBEDE.DE</description>
 	<lastBuildDate>Sun, 10 Sep 2017 08:34:36 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.8.3</generator>
+	<generator>https://wordpress.org/?v=4.9.1</generator>
 	<item>
 		<title>Kommentar zu Kinderkirche von Kinderkirchen-Termine im 2. Hj. 2017</title>
 		<link>http://sanktjosef.de/cms/gruppierungen/kinderkirche/#comment-2849</link>

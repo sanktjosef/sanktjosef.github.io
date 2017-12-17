@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kleiderstube &#8211; Archiv der Kath. Kirchengemeinde St. Josef</title>
+	<atom:link href="http://sanktjosef.de/cms/category/kleiderstube/feed/" rel="self" type="application/rss+xml" />
+	<link>http://sanktjosef.de/cms</link>
+	<description>ZUR AKTUELLEN SEITE geben Sie in Ihren Browser ein:  WWW.PPHERBEDE.DE</description>
+	<lastBuildDate>Sun, 03 Dec 2017 16:23:15 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.1</generator>
+	<item>
+		<title>Vier Frauen wurden mit dem goldenen Ehrenzeichen des Deutschen Caritasverbandes geehrt</title>
+		<link>http://sanktjosef.de/cms/2012/11/23/vier-frauen-wurden-mit-dem-goldenen-ehrenzeichen-des-deutschen-caritasverbandes-geehrt/</link>
+		<pubDate>Fri, 23 Nov 2012 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[mberretz]]></dc:creator>
+				<category><![CDATA[Kleiderstube]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://sanktjosef.de/cms/2012/11/23/vier-frauen-wurden-mit-dem-goldenen-ehrenzeichen-des-deutschen-caritasverbandes-geehrt/</guid>
+		<description><![CDATA[Vier Frauen aus St. Josef wurden mit dem goldenen Ehrenzeichen des Deutschen Caritasverbandes geehrt Frau Wodausch, Herr Back, Frau Kampmann, Frau Limberg, Frau Schmidt, Frau Haase, Frau Frege, Herr Schmelz (v. l.) Not sehen und handeln! Unter diesem Motto haben über zwei Jahrzehnte lang Frauen in der Gemeinde St. Josef ganz aktiv in der Kleiderkammer(...)]]></description>
+		</item>
+		<item>
+		<title>Kleiderkammer hilft polnischem Hospiz</title>
+		<link>http://sanktjosef.de/cms/2009/09/01/kleiderkammer-hilft-polnischem-hospiz/</link>
+		<pubDate>Mon, 31 Aug 2009 22:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[mberretz]]></dc:creator>
+				<category><![CDATA[Kleiderstube]]></category>
+		<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://sanktjosef.de/cms/2000/01/01/kleiderkammer-hilft-polnischem-hospiz/</guid>
+		<description><![CDATA[Ein ganz großes und herzliches Dankeschön an Frau Gottschalk in Sprockhövel!!! Dank ihrer großzügigen Spende konnte die Kleiderkammer von St. Josef Mitte August 2009 bei der Einrichtung eines neuen Hospizes in Polen helfen. Dieses Hospiz entsteht derzeit in Sroda Slaska, zu deutsch Neumarkt, ca. 30 km nördlich von Breslau im ehemaligen Schlesien. Frau Gottschalk ist(...)]]></description>
+		</item>
+	</channel>
+</rss>

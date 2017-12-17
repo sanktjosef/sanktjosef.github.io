@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Link-Liste &#8211; Archiv der Kath. Kirchengemeinde St. Josef</title>
+	<atom:link href="http://sanktjosef.de/cms/category/link-liste/feed/" rel="self" type="application/rss+xml" />
+	<link>http://sanktjosef.de/cms</link>
+	<description>ZUR AKTUELLEN SEITE geben Sie in Ihren Browser ein:  WWW.PPHERBEDE.DE</description>
+	<lastBuildDate>Sun, 03 Dec 2017 16:23:15 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.1</generator>
+	<item>
+		<title>Links zu anderen Institutionen</title>
+		<link>http://sanktjosef.de/cms/2012/01/01/links-zu-anderen-institutionen/</link>
+		<pubDate>Sat, 31 Dec 2011 23:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[mberretz]]></dc:creator>
+				<category><![CDATA[Link-Liste]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://sanktjosef.de/cms/2000/01/01/links-zu-anderen-institutionen/</guid>
+		<description><![CDATA[Fotoalbum von St. Josef, Haßlinghausen http://www.sanktjosef.de/album/ Pfadfinderstamm von St. Josef, Haßlinghausen http://www.sanktjosef.de/index.php?l1=4&#38;l2=23 Gemeinden unserer Pfarrei St. Peter und Paul: St. Peter und Paul, Herbede www.peterundpaul-herbede.de St. Januarius, Niedersprochkövel www.st-januarius.de St. Augustinus und Monika, Volmarstein http://limoa.de/ https://gemeinde2016blog.wordpress.com/ St. Liborius, Wengern http://limoa.de/ https://gemeinde2016blog.wordpress.com/ St. Antonius, Buchholz Bistum Essen www.bistum-essen.de Katholische Erwachsenen- und Familienbildung im Bistum Essen http://www.kefb-bistum-essen.de/(...)]]></description>
+		</item>
+	</channel>
+</rss>

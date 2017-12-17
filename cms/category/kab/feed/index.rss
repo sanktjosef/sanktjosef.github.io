@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>KAB &#8211; Archiv der Kath. Kirchengemeinde St. Josef</title>
+	<atom:link href="http://sanktjosef.de/cms/category/kab/feed/" rel="self" type="application/rss+xml" />
+	<link>http://sanktjosef.de/cms</link>
+	<description>ZUR AKTUELLEN SEITE geben Sie in Ihren Browser ein:  WWW.PPHERBEDE.DE</description>
+	<lastBuildDate>Sun, 03 Dec 2017 16:23:15 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.1</generator>
+	<item>
+		<title>Mai-Veranstaltung</title>
+		<link>http://sanktjosef.de/cms/2005/05/13/mai-veranstaltung/</link>
+		<pubDate>Fri, 13 May 2005 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[mberretz]]></dc:creator>
+				<category><![CDATA[KAB]]></category>
+		<category><![CDATA[Seniorengemeinschaft]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://sanktjosef.de/cms/2005/05/13/mai-veranstaltung/</guid>
+		<description><![CDATA[Herzliche Einladung an alle Mitglieder und Freunde der KAB. Die KAB besucht am Freitag, dem 20. Mai 2005 das Archäologische Museum Herne. Teilnehmerbeitrag: 3,50 (KAB-Mitglieder 2,50 ). Die Kosten für die um 11 Uhr stattfindende Führung übernimmt die KAB-Kasse. Archäologisches Museum Herne Treffpunkt: 9 Uhr am Busbahnhof Haßlinghausen &#8211; Nikolaus-Groß-Platz. Die Fahrt erfolgt mit öffentlichen Verkehrsmitteln. Die(...)]]></description>
+		</item>
+		<item>
+		<title>Besuch des Landtags NRW</title>
+		<link>http://sanktjosef.de/cms/2005/04/15/besuch-des-landtags-nrw/</link>
+		<pubDate>Fri, 15 Apr 2005 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[mberretz]]></dc:creator>
+				<category><![CDATA[KAB]]></category>
+		<category><![CDATA[Seniorengemeinschaft]]></category>
+		<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://sanktjosef.de/cms/2005/04/15/besuch-des-landtags-nrw/</guid>
+		<description><![CDATA[Besuch des Landtages NRW am 13. April 2005 Auf Einladung des Landtagspräsidenten Ulrich Schmidt besuchte die KAB-Gemeinschaft von St. Josef Haßlinghausen am 13. April 2005 den Landtag des Landes Nordrhein-Westfalen in Düsseldorf. Die 28 Teilnehmer wurden zunächst vom Landtagspräsidenten in seinen Empfangsräumen begrüßt. Mit dabei war auch Frau Regina van Dinther, Landtagsabgeordnete für den Ennepe-Ruhr-Kreis(CDU).(...)]]></description>
+		</item>
+		<item>
+		<title>Ehrungen</title>
+		<link>http://sanktjosef.de/cms/2005/04/01/ehrungen/</link>
+		<pubDate>Fri, 01 Apr 2005 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[mberretz]]></dc:creator>
+				<category><![CDATA[KAB]]></category>
+		<category><![CDATA[Seniorengemeinschaft]]></category>
+		<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://sanktjosef.de/cms/2005/04/01/ehrungen/</guid>
+		<description><![CDATA[Anläßlich der Jahreshauptversammlung unserer KAB-Gemeinschaft konnte Vorsitzender Horst Susemichel drei Jubilare ehren. KAB-Mitglieder von links nach rechts: H. Susemichel, H. Zelinski, D. Graf, A. Grimm, A. Lahmer, R. Dauben Für 40 Jahre Mitgliedschaft wurden geehrt: Alfred Grimm und Alois Lahmer, für 25 Jahre Mitgliedschaft Dietrich Graf. Su/Be 01.04.2005]]></description>
+		</item>
+	</channel>
+</rss>

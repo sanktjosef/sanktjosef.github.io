@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Friedhofsverwaltung &#8211; Archiv der Kath. Kirchengemeinde St. Josef</title>
+	<atom:link href="http://sanktjosef.de/cms/category/friedhofsverwaltung/feed/" rel="self" type="application/rss+xml" />
+	<link>http://sanktjosef.de/cms</link>
+	<description>ZUR AKTUELLEN SEITE geben Sie in Ihren Browser ein:  WWW.PPHERBEDE.DE</description>
+	<lastBuildDate>Sun, 03 Dec 2017 16:23:15 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.1</generator>
+	<item>
+		<title>Gebührenordnung für unseren kath. Friedhof</title>
+		<link>http://sanktjosef.de/cms/2015/01/01/gebuehrenordnung-fuer-unseren-kath-friedhof/</link>
+		<pubDate>Wed, 31 Dec 2014 23:37:54 +0000</pubDate>
+		<dc:creator><![CDATA[mberretz]]></dc:creator>
+				<category><![CDATA[Friedhofsverwaltung]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://sanktjosef.de/cms/?p=26239</guid>
+		<description><![CDATA[&#160; Die ab dem 1.1.2015 gültige Gebührenordnung können Sie hier als PDF-Datei öffnen.]]></description>
+		</item>
+		<item>
+		<title>Friedhofssatzung</title>
+		<link>http://sanktjosef.de/cms/2005/09/01/friedhofssatzung/</link>
+		<pubDate>Thu, 01 Sep 2005 09:12:36 +0000</pubDate>
+		<dc:creator><![CDATA[mberretz]]></dc:creator>
+				<category><![CDATA[Friedhofsverwaltung]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://sanktjosef.de/cms/?p=32414</guid>
+		<description><![CDATA[Zur Friedhofssatzung  (PDF-Datei) In ihr werden unter § 15 die Ruhezeiten genannt.]]></description>
+		</item>
+	</channel>
+</rss>
